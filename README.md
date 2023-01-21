@@ -1,4 +1,4 @@
-# Image Processing API Project No.1 ...............
+# Image Processing API Project 
 
 ## 📖 Overview :
 
